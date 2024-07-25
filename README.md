@@ -1,5 +1,7 @@
 Library Management System - C#
 
+CREDITS:
+
 Jao Benedicto - Project Lead
 
 Jerine Diaz - UI/UX Lead
